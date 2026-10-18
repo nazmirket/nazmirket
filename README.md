@@ -29,6 +29,6 @@ I was the main developer and system architect of a university management platfor
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/nazmiyilmaz/) · [Mirket Software](https://mirket.dev) · [Email](mailto:nazmi.yilmaz@mirket.dev)
+[LinkedIn](https://www.linkedin.com/in/nazmirket/) · [Mirket Software](https://mirket.dev) · [Email](mailto:nazmi.yilmaz@mirket.dev)
 
 Open to remote opportunities and on-site roles in Antalya.
