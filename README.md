@@ -1,9 +1,4 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazmirket/nazmirket/main/assets/header-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/nazmirket/nazmirket/main/assets/header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazmirket/nazmirket/main/assets/header-dark.svg">
-  <img alt="Nazmi Yılmaz — Software engineer & entrepreneur" src="https://raw.githubusercontent.com/nazmirket/nazmirket/main/assets/header-light.svg" width="100%">
-</picture>
+<img alt="Nazmi Yılmaz — building products &amp; systems. Crimson pixel art of a developer at a code terminal." src="https://raw.githubusercontent.com/nazmirket/nazmirket/main/assets/header-crimson-developer.png" width="100%">
 
 **Founder of [Mirket Software](https://github.com/codemirket) · Creator of [Mirket LMS](https://mirket.dev) · Antalya, Türkiye**
 
