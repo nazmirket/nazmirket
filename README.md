@@ -1,4 +1,4 @@
-<img alt="Nazmi Yılmaz — building products &amp; systems. Crimson pixel art of a developer at a code terminal." src="https://raw.githubusercontent.com/nazmirket/nazmirket/main/assets/header-crimson-developer.png" width="100%">
+<img alt="Crimson pixel art of a developer with sunglasses at a code terminal." src="https://raw.githubusercontent.com/nazmirket/nazmirket/main/assets/header-crimson-scene.png" width="100%">
 
 **Founder of [Mirket Software](https://github.com/codemirket) · Creator of [Mirket LMS](https://mirket.dev) · Antalya, Türkiye**
 
