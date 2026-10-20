@@ -1,4 +1,4 @@
-<img alt="Crimson pixel art of a developer with sunglasses at a code terminal." src="https://raw.githubusercontent.com/nazmirket/nazmirket/main/assets/header-crimson-transparent.png" width="100%">
+<img alt="Crimson pixel art of a developer with sunglasses at a code terminal." src="https://raw.githubusercontent.com/nazmirket/nazmirket/main/assets/header-crimson-transparent-line.png" width="100%">
 
 **Founder of [Mirket Software](https://github.com/codemirket) · Creator of [Mirket LMS](https://mirket.dev) · Antalya, Türkiye**
 
