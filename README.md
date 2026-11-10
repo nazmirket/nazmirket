@@ -8,7 +8,7 @@ I build software products from the first idea through architecture, development,
 
 **[Mirket LMS](https://mirket.dev)** — A learning platform that brings teaching, assessment, collaboration, and administration into one environment. I created the product and own its architecture, engineering, and delivery.
 
-**[Mirket harness](https://github.com/codemirket/harness)** — Developer and agent tooling built in Rust: reusable expertise, project workflows, and local MCP integrations for Codex Desktop and Claude Desktop Code.
+**[Mirket Skills](https://skills.mirket.dev/)** — My collection of reusable skills for Codex and Claude Code, with installation guides and workflow examples. [View the source on GitHub](https://github.com/nazmirket/skills).
 
 ## Selected projects
 
