@@ -17,7 +17,6 @@ I’m also the founder of Mirket Software and creator of Mirket LMS. Alongside p
 - **[Fikifor](https://github.com/nazmirket/fikifor)** — Real-time multiplayer elimination tournaments, built as a full-stack application. [Website](https://fikifor.mirket.dev/).
 - **[CoolQR](https://github.com/nazmirket/coolqr)** — A TypeScript library and browser builder for customizable QR codes. [Website](https://qr.mirket.dev/).
 - **[Slowed & Reverbed](https://github.com/nazmirket/slowed-reverbed)** — Browser-based audio processing with playback controls, reverb, and WAV export. [Website](https://sr.mirket.dev/).
-- **[Remember](https://github.com/nazmirket/remember)** — A persistent memory layer for Codex and Claude Code, with a local API, database, and memory worker. [Website](https://remember.mirket.dev/).
 
 ## Engineering background
 
